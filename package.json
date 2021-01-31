@@ -11,8 +11,6 @@
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.3",
     "react-dom": "^17.0.1",
-    "react-horizontal-timeline": "^1.5.3",
-    "react-parallax": "^3.1.2",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
